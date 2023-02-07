@@ -6,8 +6,12 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Document</title>
+    @vite('resources/css/app.css')
 </head>
 <body>
-    <h1>Product Page</h1>
+    <div class="bg-red-500 flex justify-center">
+        hello</br>
+        <h1 class="text-purple-500">This is User Page</h1>
+    </div>
 </body>
 </html>
