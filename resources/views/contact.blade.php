@@ -7,6 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>XContact Page</h1>
+    <h2>Contact Page</h2>
 </body>
 </html>
