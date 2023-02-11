@@ -9,6 +9,10 @@
     @vite('resources/css/app.css')
 </head>
 <body>
-    <h1 class="text-red-500"> This is Home page</h1>
+    <div class="flex flex-col ml-8">
+        <h1 class="">Login with role Admin</h1>
+        <span class="py-8 text-4xl">DashBroad</span>
+        <a href="/users" class="text-purple-500 text-2xl">User Management</a>
+    </div>
 </body>
 </html>
